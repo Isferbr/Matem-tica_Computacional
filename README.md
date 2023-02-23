@@ -1,2 +1,2 @@
-# Matem-tica_Computacional
+# Matemática_Computacional
 Matemática Computacional - ADS
